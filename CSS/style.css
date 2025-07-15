@@ -30,7 +30,7 @@ body {
     font-size: 16px;
     /*hace la equivalencia de 1rem = 10px*/
     font-family: 'Krub', s;
-    background-image: linear-gradient(to top, var(--battleship-gray),red 100%);
+    background-image: linear-gradient(to top, var(--battleship-gray), var(--white) 100%);
 }
 
 h1 {
